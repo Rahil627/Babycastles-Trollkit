@@ -1,32 +1,26 @@
-﻿//TODO: main list
+﻿//TODO: 
+//main list
 //add more error handling!
-//change start menu troll kit support shortcut to the github repository
 //try to hide title bar or at least the minimize and maximize buttons
 //send error log to a server to detect the status of the program. Send computer ID too.
-//remove minimize/maxmize butons
+//remove minimize/maxmize buttons
 //re-center window for non full screen games
 //Kunal says Syed should get a demoscene program to show trippy graphics, keygen style, when you launch trollkit
-//rename to "Troll Kit", just the title, not in the code?
-//ask Arthur for original Trollkit github repository
-//delete files upon uninstall
+//use and pull to original Trollkit github repository
+//delete files upon uninstall - delete data and startup shortcut, a pain with ClickOnce
 //test full screen/hide mouse/etc in a non ClickOnce application to determine if the problem is related to priveleges
 //clickonce elevated privelege using app.manifest and publish manifest?
 //use windows installer, write auto-update code, move everything to program files folder
 //autostart with last played game settings vs current settings
 //if arcade mode, do not auto update
-//drag and drop - control or entire form?
+//drag and drop - controls
 //add file dialog for JoyToKey
-
-//TOTAL REDESIGN
-//CLEAN THIS SHIT UP, KEEP IT SIMPLE
-//test first run of program
-//test test test!
 
 //later:
 //use standard XML parsing code, likely XPATH, not the AMS.Profile library, http://www.codeproject.com/Articles/9494/Manipulate-XML-data-with-XPath-and-XmlDocument-C
 //orrrr use LINQ to XML!
+//add download game functionality - seperate form
 //add game configurations to automatically set settings (full screen, hide mouse) for each game?
-//add download game functionality
 
 //much later:
 //certificate
